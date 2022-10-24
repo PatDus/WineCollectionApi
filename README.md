@@ -17,7 +17,7 @@ Next phase of working with the project will be consisted of code refactor, to ge
  1. First step to start is create user or use test user (**mail:** test@mail.com, **password:** test).
  2. Login with email and password. In response, you will get JWT token  which need to be  			included in header (Authorization: bearer ...) You can pass it via swagger - padlock icon.
  3. Before add wine, you have to create cellar (collection). 
- 4. Play with endpoints - let me know if you cause 
+ 4. Play with endpoints
 
 
 You can test api here: [WineCollectionApi](https://wine-collection.azurewebsites.net/swagger/index.html)
